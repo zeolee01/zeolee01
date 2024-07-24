@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=akshaya-cp&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zeolee01&color=brightgreen" alt="Profile Views" />
 </p>
 
 <h1 align="center">
@@ -18,7 +18,7 @@
   <a href="https://codeforces.com/profile/ramen_tasty">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/akshaya_singh/">
+  <a href="https://leetcode.com/u/xiaomi_01/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </p>
@@ -64,6 +64,20 @@
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zeolee10/akshaya-cp/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zeolee01/zeolee01/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
+
+<h2 align="center">My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=zeolee01" alt="GitHub Stats" style="width: 700px; height: auto;" />
+</p>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=zeolee01&show_icons=true&theme=radical" alt="Anurag's GitHub stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeolee01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></td>
+  </tr>
+</table>
