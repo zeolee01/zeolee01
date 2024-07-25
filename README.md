@@ -78,3 +78,7 @@
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeolee01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></td>
   </tr>
 </table>
+
+![snake gif](https://github.com/zeolee01/zeolee01/blob/output/github-contribution-grid-snake.svg)
+
+
