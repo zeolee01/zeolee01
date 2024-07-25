@@ -41,6 +41,12 @@
   </a>
 </p>
 
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zeolee01/zeolee01/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
 <h2 align="center">Socials</h2> 
 
 <p align="center">
@@ -79,6 +85,5 @@
   </tr>
 </table>
 
-![snake gif](https://github.com/zeolee01/zeolee01/blob/output/github-contribution-grid-snake.svg)
 
 
