@@ -17,7 +17,7 @@
 <h2 align="center">Coding Profiles</h2> 
 
 <p align="center">
-  <a href="https://codeforces.com/profile/ramen_tasty">
+  <a href="https://codeforces.com/profile/Motorola">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/xiaomi_01/">
