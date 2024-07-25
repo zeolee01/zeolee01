@@ -45,7 +45,7 @@
 
 <p align="center">
   
-  <a href="https://www.instagram.com/harsh._.agarwaal/" target="_blank">
+  <a href="https://www.instagram.com/harsh._.agarwaal" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" style="width: 40px; height: 40px; display: inline-block; margin-right: 10px;" />
   </a>
   
