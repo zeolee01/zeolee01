@@ -45,19 +45,19 @@
 
 <p align="center">
   
-  <a href="https://instagram.com/_akshaya.pratap_" target="_blank">
+  <a href="https://www.instagram.com/harsh._.agarwaal/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" style="width: 40px; height: 40px; display: inline-block; margin-right: 10px;" />
   </a>
   
-  <a href="https://www.linkedin.com/in/akshaya-singh-b65864229/" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-agarwal-68577a229/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" style="width: 40px; height: 40px; display: inline-block; margin-right: 10px;" />
   </a>
-  <a href="https://www.github.com/akshaya-cp" target="_blank">
+  <a href="https://www.github.com/zeolee01/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" style="width: 40px; height: 40px; display: inline-block; margin-right: 10px;" />
   </a>
-  <a href="https://discord.com/users/AK_singh" target="_blank">
+<!--   <a href="https://discord.com/users/AK_singh" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord" style="width: 40px; height: 40px; display: inline-block;" />
-  </a>
+  </a> -->
 </p>
 
 <h1 align="center">
