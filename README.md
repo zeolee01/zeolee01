@@ -6,6 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Agarwal!;" />
 </h1>
 
+<h3 align="left"> Problem Solver | Full Stack Developer </h3>
+  <br>
+  <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
+  I’m a passionate <b>Full Stack Developer</b> who’s recently fallen in love with React (we’ve been inseparable for a while now). I also have a bit of a crush on problem-solving—it’s complicated, but let’s just say we’re seeing a lot of each other. With a solid foundation in <b>Data Structures and Algorithms (DSA)</b>, I relish tackling complex problems and coming up with efficient solutions. I’ve sharpened my skills by solving countless DSA challenges and am always on the lookout to level up my front-end game. Welcome to my <b>GitHub profile</b>—where the code is clean and the bugs are (at least I try to make them 🙂) few!
+
+<br/>
+<br/>
+
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/u/zeolee01/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="jyot" height="150" width="150" /></a>
@@ -19,12 +27,6 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/zeolee01?theme=dark&font=Nunito" />  
 </p>
 
-<h3 align="left"> Problem Solver | Full Stack Developer </h3>
-  <br>
-  <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
-  I’m a passionate <b>Full Stack Developer</b> who’s recently fallen in love with React (we’ve been inseparable for a while now). I also have a bit of a crush on problem-solving—it’s complicated, but let’s just say we’re seeing a lot of each other. With a solid foundation in <b>Data Structures and Algorithms (DSA)</b>, I relish tackling complex problems and coming up with efficient solutions. I’ve sharpened my skills by solving countless DSA challenges and am always on the lookout to level up my front-end game. Welcome to my <b>GitHub profile</b>—where the code is clean and the bugs are (at least I try to make them 🙂) few!
-
-<br/>
 <br/>
 
 <h2 align="center">Coding Profiles</h2> 
