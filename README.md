@@ -44,13 +44,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,sass,tailwind,js,react,nodejs,expressjs&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,c,cpp,js,react,nodejs,expressjs,vscode,pycharm&theme=light" alt="My Skills" />
   </a>
   <br/>
-  <a href="https://skillicons.dev">
+<!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=light" alt="My Skills" />
   </a>
-  <br/>
+  <br/> -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git&theme=light" alt="My Skills" />
   </a>
