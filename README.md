@@ -6,6 +6,70 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Agarwal!;" />
 </h1>
 
+<table>
+<tr>
+
+<td width="42%">
+
+```text
+                      :-=+*##*+-.
+                   .=#%%%%#######=:.
+                  :#%%#########%%%%%=
+                  #%%%%%%###****++#%%+
+                 .%%%###*+--::::::=#%-
+                 .%#*=---:.. ...:--**
+                  *%+---==+=-:-=+=-+:
+                  -=+-------=::-----:
+                  :-=:::...::..:...:.
+                  .:+-:....:-=--:....
+                    =*-:..-=======:-:
+                     **+=-+---::-=+*
+                      #%##+--+*--+%
+                    =#+-=+**###*+=#%#*=:.
+                .:=#%%#=---====--+%######*+=:.
+           .:-=*#%%####+=--------+############*++-:.
+       .-=*##########%#+--::::::-*#%%%#********#####+
+     *################%%%-...-%%*###%#************###:
+    -########*############%#++#%#####%#*#******#***###*
+   .#########*##############%########%#*#*****###**###%-
+   =%#######**######*################%#********##**####-
+   *%#######**#######*###############%#********########*.
+```
+
+</td>
+
+<td width="58%">
+
+```text
+╭──────────────────────────────────────────────╮
+│ harsh@github                                 │
+├──────────────────────────────────────────────┤
+│ Role      : Software Engineer                │
+│ Company   : Nerve Sparks                     │
+│ Location  : India                            │
+│                                              │
+│ Languages : Python • JS • TS • C++           │
+│ Backend   : Django • Flask • Node            │
+│ AI        : LangChain • RAG • OpenAI         │
+│ Database  : PostgreSQL • MySQL • Redis       │
+│ Cloud     : Docker • AWS • GCP               │
+│ Queue     : Kafka • Amazon SQS               │
+│                                              │
+│ Interests : Backend Engineering              │
+│             AI Infrastructure                │
+│             Distributed Systems              │
+│                                              │
+│ DSA       : 800+ Problems Solved             │
+│ GitHub    : @zeolee01                        │
+│ Status    : Building AI Systems              │
+╰──────────────────────────────────────────────╯
+```
+
+</td>
+
+</tr>
+</table>
+
 <h3 align="left"> Problem Solver | Full Stack Developer </h3>
   <br>
   <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
@@ -93,12 +157,6 @@
 </p>
 <br/>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=zeolee01&show_icons=true&theme=radical" alt="Harsh's GitHub stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeolee01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></td>
-  </tr>
-</table>
 
 
 
