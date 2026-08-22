@@ -70,7 +70,7 @@
 </tr>
 </table>
 
-<h3 align="left"> Immediate Joiner | Software Engineer | AI Engineer | Backend Developer </h3>
+<h3 align="left"> Software Engineer | AI Engineer | Fintech </h3>
   <br>
   <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 I'm a Software Engineer passionate about building scalable backend systems and AI-powered applications.
